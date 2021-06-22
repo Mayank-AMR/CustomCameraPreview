@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ids_array">
+        <item>Aadhar/Pancard</item>
+        <item>VoterId</item>
+        <item>Bank Pass Book</item>
+        <item>Driving Licence</item>
+    </string-array>
+</resources>
